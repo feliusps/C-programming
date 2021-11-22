@@ -14,7 +14,7 @@ Graph Algorithms
 Standard Template Library
 
 # Professional Certificate in C Programming with Linux DartmouthX and IMTx-EDX
-C Programming with Linux Professional Certificate program of seven short courses, you will learn how to write, read and debug computer programs in the C programming language while also becoming familiar with the Linux operating system.
+C Programming with Linux Professional Certificate program of seven courses, you will learn how to write, read and debug computer programs in the C programming language while also becoming familiar with the Linux operating system.
 
 SKILLS
 Develop and debug code in the C programming language
